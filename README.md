@@ -10,7 +10,9 @@ The project has two major steps: the customer segmentation report and the superv
 3. Supervised Learning Model
 I had access to a third dataset with attributes from targets of a mail-order campaign and I use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
+Link to the blog post:
 
+https://medium.com/@junior.junior.castro1/customer-segmentation-report-for-arvato-financial-solutions-b70df6b48fb8
 
 ### Installation
 
