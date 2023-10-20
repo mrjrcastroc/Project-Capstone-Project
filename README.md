@@ -30,7 +30,7 @@ https://medium.com/@junior.junior.castro1/customer-segmentation-report-for-arvat
 pip install -r requeriments.txt
 
 ### File Description
-- Arvato Project Workbook (2)
+- Arvato Project Workbook (2) notebook used to build the analyses
 - azdias.csv Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
 - customers.csv Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
 - DIAS Attributes - Values 2017.xlsx list of attibutes 
